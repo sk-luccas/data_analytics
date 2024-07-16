@@ -1,1 +1,0 @@
-print('Tres pratos de trigo para tres tigres tristes')
